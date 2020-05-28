@@ -10,6 +10,8 @@ public class Main {
 		//TestUnirest jsonObject=new TestUnirest("Limit",10,"origin");
 		
 		PotHoleData.getPotHoleData();
+		//PotHoleDataJsonArray.getPotHoleData();
+		
 	   //PotHoleData location= new PotHoleData();
 	}
 
