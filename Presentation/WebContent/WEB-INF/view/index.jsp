@@ -22,7 +22,7 @@
 <body>
 	<div class="container">
 		<h2>
-			<b>Project X -  index</b>
+			<b>CryptoCurrency Tracker -  index</b>
 		</h2>
 		<h5> materialize CSS and Google Fonts enable</h5>
 		<h5> .CSS Style Sheets enabled, no need for in-line styling</h5>
