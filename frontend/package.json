@@ -12,7 +12,10 @@
     "react": "^16.13.1",
     "react-bootstrap": "^1.0.1",
     "react-dom": "^16.13.1",
-    "react-scripts": "3.4.1"
+    "react-scripts": "3.4.1",
+    "react-split-pane": "^2.0.3",
+    "react-sticky-header": "^0.2.0",
+    "rsuite": "^4.7.5"
   },
   "scripts": {
     "start": "react-scripts start",
