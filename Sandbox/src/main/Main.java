@@ -21,7 +21,7 @@ public class Main {
 	System.out.println(user.getFirst()+" "+ user.getLast());
 	System.out.println(item1.getId()+". "+item1.getName()+": "+item1.getDecription());
 	System.out.println("---------------------------------");
-	System.out.println();
+	System.out.println(user.getItems());
 	System.out.println("---------------------------------");
 	user.getItems().forEach(item -> System.out.println(item.getId()+". "+item.getName()+": "+item.getDecription()));
 	}
