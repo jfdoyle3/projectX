@@ -28,14 +28,14 @@ class LoginComponent extends Component {
         </div>
         <div className="row">
           <div className="input-field col s10">
-            <i className="material-icons prefix">email</i>
+            <i className="material-icons prefix">person</i>
             <input
               path="email"
               id="lbl_email"
               type="email"
               cssclassName="error"
             />
-            <label for="lbl_email">Email</label>
+            <label for="lbl_email">Username</label>
           </div>
         </div>
         <div className="row">
